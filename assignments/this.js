@@ -4,7 +4,7 @@
 * 1. Window/Global Binding is the default pointer returned for 'this' when it is called in a non-strict global scope
 * 2. Implicit binding is the process where this points to the object on the left of a method
 * 3. New binding is when this points to the new object being created by a constructor
-* 4. Explicit binding is when this points at an object attached to the "call/apply" methods
+* 4. Explicit binding is when this points at an object specified as a passed argument into a method like call or apply
 *
 * write out a code example of each explanation above
 */
